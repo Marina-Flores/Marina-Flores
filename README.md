@@ -3,13 +3,16 @@
 - I live in Brazil
 - I have been learning more about **Front End Development**
 - I’m currently learning **ReactJs**
+- Languages: 
+  - English (intermediate level)
+  - Portuguese (fluenty)
 
 ## Connect with me: 
 <a href="https://www.linkedin.com/in/marinathompsonflores/" target="_blank">
-<img align="center" alt="marina-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" style="max-width:100%;"> 
+<img align="center" alt="marina-linkedin" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" style="max-width:100%;"> 
 </a>
 <a href="https://www.instagram.com/marinatflores/" target="_blank">
-<img align="center" alt="marina-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+<img align="center" alt="marina-instagram" height="45" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
 </a>
 
 ## My Skills
