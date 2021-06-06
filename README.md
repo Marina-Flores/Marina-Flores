@@ -22,7 +22,7 @@
 <img align="center" alt="marina-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/firebase/firebase-plain-wordmark.svg" style="max-width:100%;"> </img>
 <img align="center" alt="marina-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bootstrap/bootstrap-plain-wordmark.svg" style="max-width:100%;"> </img>
 
-<!--
+
 ## :zap: Github Stats
 ![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinaThompson&show_icons=true&theme=radical) 
--->
+
