@@ -2,7 +2,7 @@
 ## I'm Marina Flores :fist_oncoming:
 - I live in Brazil
 - I have been learning more about **Front End Development**
-- I’m currently learning **Angular**
+- I’m currently learning **C#**
 - Languages: 
   - English (intermediate level)
   - Portuguese (fluenty)
