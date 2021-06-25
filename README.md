@@ -24,5 +24,6 @@
 
 
 ## :zap: Github Stats
-![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinaThompson&show_icons=true&theme=radical) 
+![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinaThompson&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaThompson&layout=compact)](https://github.com/MarinaThompson/github-readme-stats)
+
 
