@@ -1,7 +1,7 @@
 ### Hey you 👋
 ## I'm Marina Flores :fist_oncoming:
 - I live in Brazil
-- I have been learning more about **Front End Development**
+- I have been learning more about **Back End Development**
 - I’m currently learning **C# / ASP.NET**
 - Languages: 
   - English (intermediate level)
