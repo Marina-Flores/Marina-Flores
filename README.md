@@ -1,36 +1,33 @@
-### Hey you 👋
-## I'm Marina Flores :fist_oncoming:
-- I live in Brazil
-- I have been learning more about **Back End Development**
-- I’m currently learning **C# / ASP.NET**
-- Languages: 
-  - English (intermediate level)
-  - Portuguese (fluenty)
+### Olá, eu sou Marina Leticia 👋🏻
 
-## Connect with me: 
-<a href="https://www.linkedin.com/in/marinathompsonflores/" target="_blank">
-<img align="center" alt="marina-linkedin" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" style="max-width:100%;"> 
-</a>
-<a href="https://www.instagram.com/marinatflores/" target="_blank">
-<img align="center" alt="marina-instagram" height="45" width="55" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
-</a>
+- 🏡 Moro em Garanhuns - PE
+- 👩🏻‍🎓 Curso Análise e Desenvolvimento de Sistemas no IFPE
+- 💻 Tenho aprendido mais sobre desenvolvimento back-end 
+- 👩🏻‍💻 Atualmente focada em C# / .NET e Python
+##
+ <div>
+  <a href="https://github.com/MarinaThompson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarinaThompson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaThompson&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-## My Skills
-<img align="center" alt="marina-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" style="max-width:100%;"> </img>
-<img align="center" alt="marina-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-plain-wordmark.svg" style="max-width:100%;"> </img>
-<img align="center" alt="marina-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-plain-wordmark.svg" style="max-width:100%;"> </img>
-<img align="center" alt="marina-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/firebase/firebase-plain-wordmark.svg" style="max-width:100%;"> </img>
-<img align="center" alt="marina-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bootstrap/bootstrap-plain-wordmark.svg" style="max-width:100%;"> </img>
-
-
-## :zap: Github Stats
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaThompson&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=MarinaThompson&theme=buefy"/></td>
-    </tr>   
-</table>
-</center> 
+ ### Linguagens e Ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dotnetcore/dotnetcore-original.svg">
+ <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 
 
+</div>
+ 
+### Conecte-se comigo 📲
+
+ <div>
+  <a href="https://instagram.com/marinatflores" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:marinalbthompsonf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marinatflores" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
