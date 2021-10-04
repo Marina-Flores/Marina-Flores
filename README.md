@@ -3,7 +3,7 @@
 - 🏡 Moro em Garanhuns - PE
 - 👩🏻‍🎓 Curso Análise e Desenvolvimento de Sistemas no IFPE
 - 💻 Tenho aprendido mais sobre desenvolvimento back-end 
-- 👩🏻‍💻 Atualmente focada em C# / .NET e Python
+- 👩🏻‍💻 Atualmente focada em C# / .NET
 ##
  <div>
   <a href="https://github.com/MarinaThompson">
