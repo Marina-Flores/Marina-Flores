@@ -6,9 +6,9 @@
 - 👩🏻‍💻 Atualmente focada em C# / .NET
 ##
  <div>
-  <a href="https://github.com/MarinaThompson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarinaThompson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaThompson&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Marina-Flores">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marina-Flores&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marina-Flores&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  ### Linguagens e Ferramentas
