@@ -1,9 +1,9 @@
-### Olá, eu sou Marina Leticia 👋🏻
+### Hello, I'm Marina Leticia 👋🏻
 
-- 🏡 Moro em Garanhuns - PE
-- 👩🏻‍🎓 Curso Análise e Desenvolvimento de Sistemas no IFPE
-- 💻 Tenho aprendido mais sobre desenvolvimento back-end 
-- 👩🏻‍💻 Atualmente focada em C# / .NET
+- 🏡 I live in Garanhuns - PE
+- 👩🏻‍🎓 I'm studying Systems Analysis and Development at IFPE
+- 💻 I've been learning more about back-end development
+- 👩🏻‍💻 Currently focused on C# / .NET.
 ##
  <div>
   <a href="https://github.com/Marina-Flores">
