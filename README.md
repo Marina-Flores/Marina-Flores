@@ -5,11 +5,9 @@
 - 💻 I've been learning more about back-end development
 - 👩🏻‍💻 Currently focused on C# / .NET.
 ##
- <div>
-  <a href="https://github.com/Marina-Flores">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marina-Flores&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marina-Flores&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ 
+ [![Marina's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marina-Flores&theme=high-contrast)](https://github.com/Marina-Flores/github-readme-activity-graph)
+
 
  ### Languages and Tools
 <div style="display: inline_block"><br>
