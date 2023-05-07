@@ -4,7 +4,9 @@
 - 👩🏻‍🎓 I'm studying Systems Analysis and Development at IFPE
 - 💻 I've been learning more about back-end development
 - 👩🏻‍💻 Currently focused on C# / .NET.
-##[![Marina's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marina-Flores&theme=react)](https://github.com/Marina-Flores/github-readme-activity-graph)
+
+
+[![Marina's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marina-Flores&theme=react)](https://github.com/Marina-Flores/github-readme-activity-graph)
 
 
  ### Languages and Tools
