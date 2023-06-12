@@ -5,10 +5,6 @@
 - 💻 I've been learning more about back-end development
 - 👩🏻‍💻 Currently focused on C# / .NET.
 
-
-[![Marina's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marina-Flores&theme=react)](https://github.com/Marina-Flores/github-readme-activity-graph)
-
-
  ### Languages and Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
